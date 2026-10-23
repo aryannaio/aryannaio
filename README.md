@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Aryanna.
+================
 
-<!--
-**aryannaio/aryannaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites, automation, and small tools at Bloomwired.
 
-Here are some ideas to get you started:
+My open-source projects help AI coding assistants work with slow internet, limited hardware, restricted permissions, and Windows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+--------
+
+- [My Internet Sucks](https://github.com/Beeyach/my-internet-sucks-agent-skill) helps coding agents save progress and plan network work around unreliable connections.
+- [Potato Mode](https://github.com/Beeyach/potato-mode-agent-skill) checks memory, disk space, and CPU capacity before an agent starts heavy work.
+- [No Admin Access](https://github.com/Beeyach/no-admin-access-agent-skill) helps agents use project-local tools on computers without administrator access.
+- [I'm on Windows](https://github.com/Beeyach/im-on-windows-agent-skill) helps agents keep shells, paths, and runtimes consistent on Windows.
+
+These are early projects for Claude Code and Codex. All four use the MIT license. Reproducible bug reports, tests on different computers, and clear documentation improvements are welcome. Each repository has a contribution guide.
+
+Find me
+-------
+
+[Website](https://aryanna.io) · [npm](https://www.npmjs.com/~aryannaio) · [X](https://x.com/aryannaio)
